@@ -24,7 +24,7 @@
  * // Allows different translations to have different replacement orders
  *
  * I18n.updateLocale('en', {'user {}(id {}) missing' : 'User {0}(id {1}) not found.'});
- * I18n.updateLocale('fr', {'user {}(id {}) missing' : 'Incapable de trouver l'utilisateur id {1} avec le nom {0}.'});
+ * I18n.updateLocale('fr', {'user {}(id {}) missing' : 'Incapable de trouver l\'utilisateur id {1} avec le nom {0}.'});
  *
  * const i18n = new I18n();
  *
